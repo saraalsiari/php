@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+    <wr>2</wr>
+    <wmcms>2</wmcms>
+    <wmcmd>3</wmcmd>
+    <wmcrms>3</wmcrms>
+    <wmcrmd>4</wmcrmd>
+    <wrmcrms>4</wrmcrms>
+    <wrmcrmd>5</wrmcrmd>
+    <wrmcms>3</wrmcms>
+    <wrmcmd>4</wrmcmd>
+    <wmrgvs>1</wmrgvs>
+    <wmrgvd>2</wmrgvd>
+    <wrmrgvs>1</wrmrgvs>
+    <wrmrgvd>2</wrmrgvd>
+</config>
